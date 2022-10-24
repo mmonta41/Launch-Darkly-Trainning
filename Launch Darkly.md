@@ -1,6 +1,6 @@
 Launch Darkly Writeup from a Security Students Viewpoint
 
-<h1>Platform Readiness<h1>
+<h1>Platform Readiness</h1>
 
 During this module I'm focusing on these ideas: 
   -Understanding what project architechure means within Launch Darkly 
